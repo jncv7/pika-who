@@ -39,3 +39,8 @@ Install the dependencies using `pip`:
 
 ```bash
 pip install boto3 openpyxl colorama
+```
+
+## How can I use it?
+- You can copy paste this script into your own file OR download the file. I hope this script helps less tech sauvy people.
+
