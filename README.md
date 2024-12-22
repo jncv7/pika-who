@@ -23,9 +23,8 @@ I am a pretty beginner coder, but I do enjoy making thing just like this.
     - **S3 and IAM Permissions**: Highlights permissions specific to AWS S3 and IAM actions.
 
 - **User Feedback**:
-  - Displays real-time progress updates in the terminal with color-coded messages.
+  - Displays Start time and End time in terminal with color-coded messages to support IPE gathering.
   - Includes timestamps for audit tracking.
-  - Pauses execution at the end to allow for screenshots of results for audit documentation (IPE - Information Produced by the Entity).
 
 ### Requirements
 
